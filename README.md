@@ -1,3 +1,4 @@
+<p>Estudante iniciante na área de front end, me descobri um novo entusiasta em programação e estou em progressão contínua nos meus estudos e sempre atualizando meu repertório de projetos, disponíveis na minha conta do Github. A linguagem que estou estudando no momento é Javascript :) </p>
 <div>
   <a href="https://github.com/davidgoulart-dev
 ">
